@@ -1,0 +1,4 @@
+(load "FurthestInsertion.lisp")
+
+(StartFurthestInsertion)
+

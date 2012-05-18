@@ -1,0 +1,184 @@
+
+Interrupted at #x10C5C990.
+   [Condition of type SIMPLE-CONDITION]
+
+Restarts:
+  0: [CONTINUE] Return from BREAK.
+  1:            Return NIL from load of "Main.lisp".
+  2: [ABORT   ] Skip remaining initializations.
+
+Debug  (type H for help)
+
+(UNIX::SIGINT-HANDLER #<unused-arg> #<unused-arg> #.(SYSTEM:INT-SAP #x3FFE7C64))
+Source: Error finding source: 
+Error in function DEBUG::GET-FILE-TOP-LEVEL-FORM:  Source file no longer exists:
+  target:code/signal.lisp.
+0] 
+
+Interrupted at #xB7F5F424.
+   [Condition of type SIMPLE-CONDITION]
+
+Restarts:
+  0: [CONTINUE] Return from BREAK.
+  1: [ABORT   ] Return to debug level 1.
+  2:            Return from BREAK.
+  3:            Return NIL from load of "Main.lisp".
+  4:            Skip remaining initializations.
+
+Debug  (type H for help)
+
+(UNIX::SIGINT-HANDLER #<unused-arg> #<unused-arg> #.(SYSTEM:INT-SAP #x3FFE7234))
+Source: Error finding source: 
+Error in function DEBUG::GET-FILE-TOP-LEVEL-FORM:  Source file no longer exists:
+  target:code/signal.lisp.
+0]] 
+
+Interrupted at #xB7F5F424.
+   [Condition of type SIMPLE-CONDITION]
+
+Restarts:
+  0: [CONTINUE] Return from BREAK.
+  1: [ABORT   ] Return to debug level 2.
+  2:            Return from BREAK.
+  3:            Return to debug level 1.
+  4:            Return from BREAK.
+  5:            Return NIL from load of "Main.lisp".
+  6:            Skip remaining initializations.
+
+Debug  (type H for help)
+
+(UNIX::SIGINT-HANDLER #<unused-arg> #<unused-arg> #.(SYSTEM:INT-SAP #x3FFE6804))
+Source: Error finding source: 
+Error in function DEBUG::GET-FILE-TOP-LEVEL-FORM:  Source file no longer exists:
+  target:code/signal.lisp.
+0]]] 
+
+Interrupted at #xB7F5F424.
+   [Condition of type SIMPLE-CONDITION]
+
+Restarts:
+  0: [CONTINUE] Return from BREAK.
+  1: [ABORT   ] Return to debug level 3.
+  2:            Return from BREAK.
+  3:            Return to debug level 2.
+  4:            Return from BREAK.
+  5:            Return to debug level 1.
+  6:            Return from BREAK.
+  7:            Return NIL from load of "Main.lisp".
+  8:            Skip remaining initializations.
+
+Debug  (type H for help)
+
+(UNIX::SIGINT-HANDLER #<unused-arg> #<unused-arg> #.(SYSTEM:INT-SAP #x3FFE5C74))
+Source: Error finding source: 
+Error in function DEBUG::GET-FILE-TOP-LEVEL-FORM:  Source file no longer exists:
+  target:code/signal.lisp.
+0]]]] 
+
+Interrupted at #xB7F5F424.
+   [Condition of type SIMPLE-CONDITION]
+
+Restarts:
+  0: [CONTINUE] Return from BREAK.
+  1: [ABORT   ] Return to debug level 4.
+  2:            Return from BREAK.
+  3:            Return to debug level 3.
+  4:            Return from BREAK.
+  5:            Return to debug level 2.
+  6:            Return from BREAK.
+  7:            Return to debug level 1.
+  8:            Return from BREAK.
+  9:            Return NIL from load of "Main.lisp".
+ 10:            Skip remaining initializations.
+
+Debug  (type H for help)
+
+(UNIX::SIGINT-HANDLER #<unused-arg> #<unused-arg> #.(SYSTEM:INT-SAP #x3FFE5244))
+Source: Error finding source: 
+Error in function DEBUG::GET-FILE-TOP-LEVEL-FORM:  Source file no longer exists:
+  target:code/signal.lisp.
+0]]]]] 
+
+Interrupted at #xB7F5F424.
+   [Condition of type SIMPLE-CONDITION]
+
+Restarts:
+  0: [CONTINUE] Return from BREAK.
+  1: [ABORT   ] Return to debug level 5.
+  2:            Return from BREAK.
+  3:            Return to debug level 4.
+  4:            Return from BREAK.
+  5:            Return to debug level 3.
+  6:            Return from BREAK.
+  7:            Return to debug level 2.
+  8:            Return from BREAK.
+  9:            Return to debug level 1.
+ 10:            Return from BREAK.
+ 11:            Return NIL from load of "Main.lisp".
+ 12:            Skip remaining initializations.
+
+Debug  (type H for help)
+
+(UNIX::SIGINT-HANDLER #<unused-arg> #<unused-arg> #.(SYSTEM:INT-SAP #x3FFE4814))
+Source: Error finding source: 
+Error in function DEBUG::GET-FILE-TOP-LEVEL-FORM:  Source file no longer exists:
+  target:code/signal.lisp.
+0]]]]]] 
+
+Interrupted at #xB7F5F424.
+   [Condition of type SIMPLE-CONDITION]
+
+Restarts:
+  0: [CONTINUE] Return from BREAK.
+  1: [ABORT   ] Return to debug level 6.
+  2:            Return from BREAK.
+  3:            Return to debug level 5.
+  4:            Return from BREAK.
+  5:            Return to debug level 4.
+  6:            Return from BREAK.
+  7:            Return to debug level 3.
+  8:            Return from BREAK.
+  9:            Return to debug level 2.
+ 10:            Return from BREAK.
+ 11:            Return to debug level 1.
+ 12:            Return from BREAK.
+ 13:            Return NIL from load of "Main.lisp".
+ 14:            Skip remaining initializations.
+
+Debug  (type H for help)
+
+(UNIX::SIGINT-HANDLER #<unused-arg> #<unused-arg> #.(SYSTEM:INT-SAP #x3FFE3DE4))
+Source: Error finding source: 
+Error in function DEBUG::GET-FILE-TOP-LEVEL-FORM:  Source file no longer exists:
+  target:code/signal.lisp.
+0]]]]]]] 
+
+Interrupted at #xB7F5F424.
+   [Condition of type SIMPLE-CONDITION]
+
+Restarts:
+  0: [CONTINUE] Return from BREAK.
+  1: [ABORT   ] Return to debug level 7.
+  2:            Return from BREAK.
+  3:            Return to debug level 6.
+  4:            Return from BREAK.
+  5:            Return to debug level 5.
+  6:            Return from BREAK.
+  7:            Return to debug level 4.
+  8:            Return from BREAK.
+  9:            Return to debug level 3.
+ 10:            Return from BREAK.
+ 11:            Return to debug level 2.
+ 12:            Return from BREAK.
+ 13:            Return to debug level 1.
+ 14:            Return from BREAK.
+ 15:            Return NIL from load of "Main.lisp".
+ 16:            Skip remaining initializations.
+
+Debug  (type H for help)
+
+(UNIX::SIGINT-HANDLER #<unused-arg> #<unused-arg> #.(SYSTEM:INT-SAP #x3FFE33B4))
+Source: Error finding source: 
+Error in function DEBUG::GET-FILE-TOP-LEVEL-FORM:  Source file no longer exists:
+  target:code/signal.lisp.
+0]]]]]]]] 
